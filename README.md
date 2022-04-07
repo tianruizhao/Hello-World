@@ -2,3 +2,4 @@
 a fix in branch feature-A
 
 	-fix-B
+	-feature-C true
